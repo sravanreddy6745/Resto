@@ -19,8 +19,8 @@
 .jumbotron {
     padding: 70px 30 px 70px 30px;
     margin: 0px auto;
-    color: hsl(330, 76%, 46%);
-    background: #29d19f;
+    color: hsl(330, 4%, 9%);
+    background: #36574d;
 }
 
 .address{
@@ -32,12 +32,12 @@ ul li{
     padding-bottom: 10px;
 }
 ul li a{
-    color: rgb(224, 46, 150);
+    color: rgb(9, 3, 31);
 }
 boody{
     padding: 50px 0px 0px 0px;
     z-index: 0;
 }
 .navbar-dark{
-    background: #512da8;
+    background: #2c6150;
 }
