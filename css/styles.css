@@ -34,3 +34,10 @@ ul li{
 ul li a{
     color: rgb(224, 46, 150);
 }
+boody{
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+.navbar-dark{
+    background: #512da8;
+}
